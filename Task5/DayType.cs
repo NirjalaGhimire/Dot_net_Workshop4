@@ -1,0 +1,5 @@
+﻿enum DayType
+{
+    Weekday,
+    Weekend
+}
